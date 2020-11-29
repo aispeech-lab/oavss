@@ -5,8 +5,4 @@ This is the demo and pytorch implementation of our paper: "Online Audio-Visual S
 
 We will release code soon. If you have any question about implementation details, feel free to ask me (zhangpeng2018@ia.ac.cn)
 
-## Model
-The structure of our model is as follows.
-
-![](./image/figure2.png)
-****************************************************************
+<div align=center><img width="500" src="./image/figure2.png" alt="The structure of our proposed model."/></div>
