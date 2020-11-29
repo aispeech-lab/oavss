@@ -15,3 +15,8 @@ We conduct experiments on 2-speaker mixtures created from the [Lip Reading Sente
 - Listen to the audio samples at [*./samples*](./samples)
 - Spectrogram sample
 <div align=center><img width="700" src="./image/spec/figure1.png" alt="The spectrogram sample."/></div>
+
+### Metric
+| Models | Online | SDR | PESQ | STOI(%) | WER(%) |
+| --------------- | --- | ---- | --- | --| --- |
+| Mixed audio | - | 0.15 | 1.78 | 69 | 72.2 |
