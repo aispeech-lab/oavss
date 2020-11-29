@@ -8,5 +8,5 @@ We will release code soon. If you have any question about implementation details
 ## Model
 The structure of our model is as follows.
 
-![](./Image/figure2.png)
+![](./image/figure2.png)
 ****************************************************************
