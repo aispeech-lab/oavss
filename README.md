@@ -26,12 +26,12 @@ Table 1: The performance of our models and baseline models on the test set. CF r
 | Ours(CF) | No | 10.01 | 2.65 | 87 | 22.5 |
 | Ours(DCF) | No | 10.30 | 2.68 | 88 | 20.3 |
 | Ours(CF+GAT) | No | 10.24 | 2.67 | 87 | 20.1 |
-| Ours(DCF+GAT) | No | 10.48 | 2.70 | 88 | 19.2 |
+| Ours(DCF+GAT) | No | **10.48** | **2.70** | **88** | **19.2** |
 | Conv-TasNet | Yes | 6.25 | 2.22 | 80 | 39.0 |
 | Ours(CF) | Yes | 4.95 | 2.13 | 78 | 39.3 |
 | Ours(DCF) | Yes | 6.27 | 2.28 | 82 | 32.6 |
 | Ours(CF+GAT) | Yes | 5.48 | 2.21 | 79 | 36.1 |
-| Ours(DCF+GAT) | Yes | 6.76 | 2.33 | 83 | 30.8 |
+| Ours(DCF+GAT) | Yes | **6.76** | **2.33** | **83** | **30.8** |
 
 Table 2: The run time of our model on the GPU and CPU under different chunk length.
 | Chunk length | 40ms | 80ms | 120ms | 160ms | 200ms | 240ms | 280ms|
