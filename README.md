@@ -22,6 +22,7 @@ Table 1: The performance of our models and baseline models on the test set. CF r
 | --------------- | --- | ---- | --- | --| --- |
 | Mixed audio | - | 0.15 | 1.78 | 69 | 72.2 |
 | Conv-TasNet | No | 9.60 | 2.58 | 87 | 25.3 |
+| | | | | | |
 | Ours(CF) | No | 10.01 | 2.65 | 87 | 22.5 |
 | Ours(DCF) | No | 10.30 | 2.68 | 88 | 20.3 |
 | Ours(CF+GAT) | No | 10.24 | 2.67 | 87 | 20.1 |
@@ -32,8 +33,8 @@ Table 1: The performance of our models and baseline models on the test set. CF r
 | Ours(CF+GAT) | Yes | 5.48 | 2.21 | 79 | 36.1 |
 | Ours(DCF+GAT) | Yes | 6.76 | 2.33 | 83 | 30.8 |
 
-Table 2: The run time of our model on the GPU and CPU under different chunk sizes.
-| Chunk size | 40ms | 80ms | 120ms | 160ms | 200ms | 240ms | 280ms|
+Table 2: The run time of our model on the GPU and CPU under different chunk length.
+| Chunk length | 40ms | 80ms | 120ms | 160ms | 200ms | 240ms | 280ms|
 | ---------- | ---- | ---- | ----- | ----- | ----- | ----- | ----- |
 | CPU | 166ms | 167ms | 173ms | 175ms | 178ms | 182ms | 187ms |
 | GPU | 24ms | 24ms | 24ms | 25ms | 25ms | 25ms | 25ms |
