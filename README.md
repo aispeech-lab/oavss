@@ -22,7 +22,7 @@ Table 1: The performance of our models and baseline models on the test set. CF r
 | --------------- | --- | ---- | --- | --| --- |
 | Mixed audio | - | 0.15 | 1.78 | 69 | 72.2 |
 | Conv-TasNet | No | 9.60 | 2.58 | 87 | 25.3 |
-| [advr-AVSS](https://arxiv.org/pdf/2011.14334.pdf) | No | 9.94 | 2.64 | 87 | 22.7|
+| advr-AVSS | No | 9.94 | 2.64 | 87 | 22.7|
 | Ours(CF) | No | 10.01 | 2.65 | 87 | 22.5 |
 | Ours(DCF) | No | 10.30 | 2.68 | 88 | 20.3 |
 | Ours(CF+GAT) | No | 10.24 | 2.67 | 87 | 20.1 |
