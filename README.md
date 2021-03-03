@@ -38,3 +38,14 @@ Table 2: The run time of our model on the GPU and CPU under different chunk leng
 | ---------- | ---- | ---- | ----- | ----- | ----- | ----- | ----- |
 | CPU | 166ms | 167ms | 173ms | 175ms | 178ms | 182ms | 187ms |
 | GPU | 24ms | 24ms | 24ms | 25ms | 25ms | 25ms | 25ms |
+
+If you find this repo helpful, please consider citing:
+
+```
+@article{zhang2021online,
+  title={Online Audio-Visual Speech Separation with Generative Adversarial Training},
+  author={Zhang, Peng and Xu, Jiaming and Hao, Yunzhe and Xu, Bo}
+  journal={Proc. ICCAI 2021}
+  year={2021}
+}
+```
