@@ -45,7 +45,8 @@ If you find this repo helpful, please consider citing:
 @inproceedings{zhang2021online,
   title={Online Audio-Visual Speech Separation with Generative Adversarial Training},
   author={Zhang, Peng and Xu, Jiaming and Hao, Yunzhe and Xu, Bo}
-  booktitle={2021 7th International Conference on Computing and Artificial Intelligence (ICCAI)}
-  year={2021}
+  booktitle={2021 7th International Conference on Computing and Artificial Intelligence (ICCAI)},
+  year={2021},
+  organization={ACM}
 }
 ```
