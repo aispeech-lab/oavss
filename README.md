@@ -17,7 +17,7 @@ We conduct experiments on 2-speaker mixtures created from the [Lip Reading Sente
 <div align=center><img width="700" src="./image/spec/figure1.png" alt="The spectrogram sample."/></div>
 
 ### Metric
-Table 1: The performance of our models and baseline models on the test set. CF represents concatenate fusion; DCF represents deep concatenate fusion; GAT represents generative adversarial training. .
+Table 1: The performance of our models and baseline models on the test set. CF represents concatenate fusion; DCF represents deep concatenate fusion; GAT represents generative adversarial training.
 | Models | Online | SDR(dB) | PESQ | STOI(%) | WER(%) |
 | --------------- | --- | ---- | --- | --| --- |
 | Mixed audio | - | 0.15 | 1.78 | 69 | 72.2 |
